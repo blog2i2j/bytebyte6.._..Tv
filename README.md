@@ -27,16 +27,16 @@
 - 直播源播放
 
 # 界面概览
-<img src="https://github.com/bytebyte6/blog/raw/master/Tv/1.png" width="320" height="640">
-<img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/2.png" width="320" height="640">
-<img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/3.png" width="320" height="640">
-<img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/import.png" width="320"  height="640">
-<img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/fav.png" width="320" height="640">
-<img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/setting.png" width="320" height="640">
-<img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/fav.png" width="320" height="640">
-<img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/download.png" width="320" height="640">
-<img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/menu.png" width="320" height="640">
-<img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/search.png" width="320" height="640">
+<img src="https://github.com/bytebyte6/blog/master/Tv/1.png" width="320" height="640">
+<img src="https://github.com/bytebyte6/blog/master/Tv/2.png" width="320" height="640">
+<img src="https://github.com/bytebyte6/blog/master/Tv/3.png" width="320" height="640">
+<img src="https://github.com/bytebyte6/blog/master/Tv/import.png" width="320"  height="640">
+<img src="https://github.com/bytebyte6/blog/master/Tv/fav.png" width="320" height="640">
+<img src="https://github.com/bytebyte6/blog/master/Tv/setting.png" width="320" height="640">
+<img src="https://github.com/bytebyte6/blog/master/Tv/fav.png" width="320" height="640">
+<img src="https://github.com/bytebyte6/blog/master/Tv/download.png" width="320" height="640">
+<img src="https://github.com/bytebyte6/blog/master/Tv/menu.png" width="320" height="640">
+<img src="https://github.com/bytebyte6/blog/master/Tv/search.png" width="320" height="640">
 
 # 数据层
 
