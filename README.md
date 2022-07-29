@@ -27,7 +27,7 @@
 - 直播源播放
 
 # 界面概览
-<img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/1.png" width="320" height="640">
+<img src="https://github.com/bytebyte6/blog/raw/master/Tv/1.png" width="320" height="640">
 <img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/2.png" width="320" height="640">
 <img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/3.png" width="320" height="640">
 <img src="https://gitee.com/bytebyte6/blog/raw/master/Tv/import.png" width="320"  height="640">
